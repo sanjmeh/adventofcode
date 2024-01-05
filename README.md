@@ -1,2 +1,2 @@
-# adventofcode
-programming challenges from advent of code
+# Purpose
+Programming challenges are a fun way to gauge expertise of programming.
